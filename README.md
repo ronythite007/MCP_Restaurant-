@@ -82,6 +82,15 @@ Once your server is running in Claude Desktop, try asking:
 
 ---
 
+## 🖼️ Claude Desktop Interface
+
+Here’s how Claude Desktop looks after integrating the Restaurant MCP Server:
+
+![Claude Desktop Screenshot](![Screenshot 2025-04-24 183411](https://github.com/user-attachments/assets/32c01db8-9480-4e31-9a9b-abd02d8bfd3a)
+)
+
+---
+
 @All rights reserved. Rohan Thite (TechSpire)
 
 
