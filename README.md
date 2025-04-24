@@ -51,6 +51,37 @@ This MCP server allows you to interact naturally with Claude Desktop using queri
 - Kill any running instance of Claude from Task Manager. Restart Claude Desktop
 - In Claude desktop, now you will see tools from this server
 
+  ## 🧠 Example Queries for Restaurant MCP Server
+
+Once your server is running in Claude Desktop, try asking:
+
+### 🍽️ Sales & Orders
+- "Show me today's top-selling items"
+- "Which dishes were most ordered today?"
+- "What were the three most popular dishes today?"
+
+### 🧂 Inventory Management
+- "What ingredients are running low?"
+- "List inventory items below threshold"
+- "Add 20 units of Cheese to inventory"
+- "Add a new item to the inventory: 10 onions"
+
+### 👨‍🍳 Staff Scheduling
+- "Generate tomorrow’s staff schedule"
+- "Who is available to work on Saturday?"
+- "Suggest a staff schedule for Friday"
+
+### 📝 Feedback Summary
+- "Summarize yesterday’s feedback"
+- "What feedback did we get on 23rd April?"
+
+### 🧪 Mixed Examples
+- "Add 5 bottles of Olive Oil to inventory"
+- "Which items have quantity less than 10?"
+- "Who can work tomorrow?"
+
+---
+
 @All rights reserved. Rohan Thite (TechSpire)
 
 
